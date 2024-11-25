@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  text-decoration: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.body1{
+    background: linear-gradient(105.54deg, #f4a764 -2.93%, #ffdec2 72.14%);
+  }
+
+.container {
+  max-width: 1300px;
+  margin: auto;
+}
+
+nav {
+  margin-top: 15px;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.text a {
+  font-family: Poppins;
+  margin: 0px 20px;
+  font-size: 20px;
+  color: black;
+}
+.nav-text{
+    padding-left: 35%;
+    margin-top: 10px;
+}
+.btn {
+  background-color: black;
+  font-family: Poppins;
+  width: Hug (168px) px;
+  height: Hug (64px) px;
+  padding: 14px 38px 14px 38px;
+  gap: 10px;
+  border-radius: 50px;
+  color: white;
+  border: none;
+}
+section{
+    padding-top: 8%;
+}
+.text-h{
+    color: white;
+    font-size: 50px;
+    font-family: Poppins;
+    margin-top: 15px;
+}
+.span{
+    color: black;
+    font-family: Poppins;
+}
+.text-p{
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: Poppins;
+    color: #1C1415CC;
+}
+.img-s img{
+    margin-top: 20px;
+    width: 150px;
+}
+body {
+    position: relative;
+  }
+
+  body {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+
+  .swiper {
+    width: 500px;
+   
+  }
+
+  .swiper-slide {
+   background-position: center;
+   background-size: cover;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    user-select: none;
+  }
+
+  .zero{
+    background: linear-gradient(105.54deg, #f4a764 -2.93%, #ffdec2 72.14%);
+  }
+  .first{
+    background: linear-gradient(105.54deg, #ADB0B0 -2.93%, #E1E1E1 72.14%);
+  }
+  .second{
+    background: linear-gradient(105.54deg, #30A357 -2.93%, #75E39A 72.14%);
+  }
+  .threed{
+    background: linear-gradient(105.54deg, #F24F4F -2.93%, #FFA895 72.14%);
+
+  }
+
+
